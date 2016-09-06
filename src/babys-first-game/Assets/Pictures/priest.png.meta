@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: ed272894d9ba25740aad58cf1abb9a6f
+timeCreated: 1454184263
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: priest_0
+    21300002: priest_1
+    21300004: priest_2
+    21300006: priest_3
+    21300008: priest_4
+    21300010: priest_5
+    21300012: priest_6
+    21300014: priest_7
+    21300016: priest_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: priest_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 167
+        height: 342
+      alignment: 9
+      pivot: {x: 0.50466675, y: 0.4054314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.72065, y: -77.65753}
+        - {x: 82.72065, y: 34.34247}
+        - {x: 82.72065, y: 132.34247}
+        - {x: 80.72065, y: 149.34247}
+        - {x: 49.72065, y: 192.34247}
+        - {x: 35.72065, y: 203.34247}
+        - {x: -17.27935, y: 203.34247}
+        - {x: -84.27935, y: 157.34247}
+        - {x: -84.27935, y: 27.342468}
+        - {x: -40.27935, y: -89.65753}
+        - {x: -10.27935, y: -138.65753}
+        - {x: 6.7206497, y: -138.65753}
+        - {x: 16.72065, y: -132.65753}
+        - {x: 29.72065, y: -115.65753}
+        - {x: 41.72065, y: -96.65753}
+    - name: priest_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 263
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.478352, y: 0.86561453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.220673, y: 10.885223}
+        - {x: -17.220673, y: 9.885223}
+        - {x: -17.220673, y: -70.11478}
+        - {x: 18.779327, y: -70.11478}
+        - {x: 18.779327, y: 10.885223}
+    - name: priest_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 259
+        width: 35
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.86561453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 10.885223}
+        - {x: -17.5, y: 9.885223}
+        - {x: -17.5, y: -58.114777}
+        - {x: -11.5, y: -70.11478}
+        - {x: 12.5, y: -70.11478}
+        - {x: 17.5, y: -67.11478}
+        - {x: 17.5, y: 6.8852234}
+        - {x: 15.5, y: 10.885223}
+    - name: priest_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 209
+        width: 49
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3966189, y: 0.90069664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.565674, y: 10.526154}
+        - {x: -17.434326, y: 10.526154}
+        - {x: -18.434326, y: 2.5261536}
+        - {x: -13.434326, y: -25.473846}
+        - {x: -5.434326, y: -46.473846}
+        - {x: -19.434326, y: -79.47385}
+        - {x: -19.434326, y: -95.47385}
+        - {x: 3.5656738, y: -95.47385}
+        - {x: 29.565674, y: -83.47385}
+        - {x: 29.565674, y: -13.473846}
+        - {x: 19.565674, y: 5.5261536}
+    - name: priest_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 143
+        width: 40
+        height: 106
+      alignment: 9
+      pivot: {x: 0.42206687, y: 0.882316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.882675, y: 12.474503}
+        - {x: -16.882675, y: 10.474503}
+        - {x: -16.882675, y: -93.5255}
+        - {x: 23.117325, y: -93.5255}
+        - {x: 23.117325, y: 10.474503}
+        - {x: 18.117325, y: 12.474503}
+    - name: priest_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 140
+        width: 40
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5194839, y: 0.88966817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.779358, y: 11.695175}
+        - {x: -20.779358, y: -94.304825}
+        - {x: 19.220642, y: -94.304825}
+        - {x: 19.220642, y: 11.695175}
+    - name: priest_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 61
+        width: 50
+        height: 107
+      alignment: 9
+      pivot: {x: 0.570141, y: 0.90787715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.50705, y: -87.14285}
+        - {x: -8.50705, y: -97.14285}
+        - {x: 21.49295, y: -97.14285}
+        - {x: 21.49295, y: -26.142853}
+        - {x: 18.49295, y: 9.857147}
+        - {x: -13.50705, y: 9.857147}
+        - {x: -28.50705, y: -9.142853}
+    - name: priest_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 33
+        width: 55
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6133581, y: 0.89377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.734695, y: 10.09185}
+        - {x: -33.734695, y: 6.0918503}
+        - {x: -33.734695, y: -80.90815}
+        - {x: -32.734695, y: -82.90815}
+        - {x: -23.734695, y: -84.90815}
+        - {x: 11.265305, y: -84.90815}
+        - {x: 14.265305, y: -81.90815}
+        - {x: 21.265305, y: -42.90815}
+        - {x: 21.265305, y: 10.09185}
+    - name: priest_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 34
+        width: 52
+        height: 94
+      alignment: 9
+      pivot: {x: 0.37260878, y: 0.88137734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.375656, y: 11.150528}
+        - {x: -19.375656, y: -56.849472}
+        - {x: -16.375656, y: -76.84947}
+        - {x: -9.375656, y: -82.84947}
+        - {x: 19.624344, y: -82.84947}
+        - {x: 32.624344, y: -66.84947}
+        - {x: 32.624344, y: 5.150528}
+        - {x: 31.624344, y: 11.150528}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
